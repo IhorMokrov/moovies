@@ -1,0 +1,16 @@
+.moovie-item {
+  margin-top: 15px;
+  margin-bottom: 15px;
+  font-weight: 900;
+}
+
+.moovie-item p {
+  margin: 0;
+  padding-left: 10px;
+
+  font-weight: 400;
+}
+
+.year-title {
+  padding-left: 40px;
+}
